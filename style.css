@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+
+.btn-Container{
+   display: flex;
+   justify-content: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 2rem;
+}
+
+.color1{
+    background-color: #d95980;
+}
+
+.color2{
+    background-color: #f99b45;
+}
+
+.color3{
+    background-color: #63aac0;
+}
+
+.color4{
+    background-color: #819ff9;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: aliceblue;
+}
